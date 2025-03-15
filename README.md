@@ -35,7 +35,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/iaugustoz/ms-notification-service
+git clone https://github.com/iaugustoz/ms-service-notification
 ```
 
 2. **Navegue até o diretório do projeto:**
