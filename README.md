@@ -2,7 +2,7 @@
 
 ## 📜 **Descrição**
 
-Descrição em andamento...
+Este microsserviço é responsável pelo gerenciamento e envio de notificações no sistema de To-Do List. Ele garante que os usuários sejam alertados sobre prazos, lembretes e eventos importantes relacionados às suas tarefas.
 
 ---
 
