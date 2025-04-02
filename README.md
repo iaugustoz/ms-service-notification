@@ -1,4 +1,4 @@
-# **To-Do Microservice**
+# 📝 **To-Do Microservice - Notification** 📝
 
 ## 📜 **Descrição**
 
@@ -8,7 +8,7 @@ Este microsserviço é responsável pelo gerenciamento e envio de notificações
 
 ## 🚀 **Status do Projeto**
 
-⚙️ Projeto em andamento...
+✅ Projeto concluído.
 
 ---
 
