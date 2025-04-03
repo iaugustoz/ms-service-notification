@@ -4,6 +4,12 @@
 
 Este microsserviço é responsável pelo gerenciamento e envio de notificações no sistema de To-Do List. Ele garante que os usuários sejam alertados sobre prazos, lembretes e eventos importantes relacionados às suas tarefas.
 
+O projeto é constituído por alguns microsserviços e repositório de configuraçöes. A seguir, estão os principais componentes do sistema:
+
+- **[ms-tasks-service](https://github.com/iaugustoz/ms-tasks-service)**: reponsável pelo processamento e administração das tarefas disponíveis
+- **[ms-main-service](https://github.com/iaugustoz/ms-main-service/)**: microsserviço centralizador responsável por atuar como servidor de configuração (Config Server) e serviço de descoberta (Eureka Server).
+- **[config-server](https://github.com/iaugustoz/config-server/)**: repositório de configurações para os MS de tasks e notification
+
 ---
 
 ## 🚀 **Status do Projeto**
